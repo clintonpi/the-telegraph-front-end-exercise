@@ -4,10 +4,10 @@
 @import 'elements/home.css';
 
 :root {
-  --brand-gray: #DDDDDD;
-  --brand-border: 1px solid var(--brand-gray);
+	--brand-gray: #DDDDDD;
+	--brand-border: 1px solid var(--brand-gray);
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
